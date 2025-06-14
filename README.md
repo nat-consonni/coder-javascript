@@ -1,10 +1,10 @@
-# Simulador: "Sabores del Mundo - Uruguay"
+# Simulador: "Dónde lo consigo - Uruguay"
 
 ## Introducción
 
 Uruguay ha experimentado en los últimos años un notable aumento en su población extranjera, superando los 100.000 residentes provenientes de países como Argentina, Venezuela y Cuba. Este fenómeno migratorio ha enriquecido la diversidad cultural y gastronómica del país. Sin embargo, muchos inmigrantes y uruguayos retornados enfrentan desafíos al intentar encontrar ingredientes específicos de sus culturas de origen, como leche de coco, harina de mandioca o tés de marcas particulares.
 
-"**Sabores del Mundo - Uruguay**" es un simulador interactivo diseñado para facilitar la búsqueda de ingredientes y productos alimenticios internacionales en el país. La aplicación permitirá a los usuarios localizar tiendas que ofrecen estos productos, filtrando por nombre, marca, país de uso, precio o disponibilidad.
+"**Dónde lo consigo - Uruguay**" es un simulador interactivo diseñado para facilitar la búsqueda de ingredientes y productos alimenticios internacionales en el país. La aplicación permitirá a los usuarios localizar tiendas que ofrecen estos productos, filtrando por nombre, marca, país de uso, precio o disponibilidad.
 
 ---
 
